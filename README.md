@@ -3,6 +3,14 @@
 ## Project Overview
 This project focuses on conducting a comprehensive analysis of Spotify user engagement, using data visualization techniques in Tableau. The goal is to identify trends in song and artist popularity and provide actionable insights to enhance Spotify's user experience and playlist optimization strategies.
 
+![Dashboard_1.jpeg](screenshots%2FDashboard_1.jpeg)
+
+![Dashboard_2.jpeg](screenshots%2FDashboard_2.jpeg)
+
+![Dashboard_3.jpeg](screenshots%2FDashboard_3.jpeg)
+
+![Dashboard_4.jpeg](screenshots%2FDashboard_4.jpeg)
+
 ## Key Objectives
 - **User Engagement Analysis:** Acquire, clean, and structure Spotify data to analyze user engagement patterns.
 - **Data Visualization:** Use Tableau to create interactive dashboards that showcase key trends in song and artist popularity.
